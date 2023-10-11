@@ -1,0 +1,13 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    background: linear-gradient(to right, #23074d, #cc5333);
+}
+
+.card-title {
+    text-align: center;
+}
+
+.card-footer {
+    font-weight: 700;
+}
+
